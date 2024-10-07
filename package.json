@@ -20,7 +20,7 @@
   "license": "MIT",
   "dependencies": {
     "@action-badges/core": "^0.3.1",
-    "@actions/core": "^1.11.0",
+    "@actions/core": "^1.11.1",
     "fast-xml-parser": "^4.5.0"
   },
   "devDependencies": {
