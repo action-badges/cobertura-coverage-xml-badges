@@ -1,5 +1,5 @@
 import { promises as fs } from "fs";
-import core from "@actions/core";
+import * as core from "@actions/core";
 import { XMLParser, XMLValidator } from "fast-xml-parser";
 import { BaseAction } from "@action-badges/core";
 
