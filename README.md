@@ -26,7 +26,7 @@ jobs:
           branch-name: badges
 
       - name: Make Coverage Badge
-        uses: action-badges/cobertura-coverage-xml-badges@0.4.0
+        uses: action-badges/cobertura-coverage-xml-badges@0.4.1
         with:
           file-name: coverage.svg
           badge-branch: badges
