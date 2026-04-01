@@ -21,7 +21,7 @@
   "dependencies": {
     "@action-badges/core": "^0.4.0",
     "@actions/core": "^3.0.0",
-    "fast-xml-parser": "^5.4.1"
+    "fast-xml-parser": "^5.5.9"
   },
   "devDependencies": {
     "@eslint/js": "^10.0.1",
